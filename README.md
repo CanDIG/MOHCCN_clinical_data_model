@@ -8,6 +8,6 @@ If you have questions about collecting data against the model, or implementing d
 
 ## CanDIG implementations
 
-CanDIG's implementation of the data model can be found in the [katsu](https://github.com/CanDIG/katsu) repository (our clinical data service using Django and PostgreSQL) and the [clinical_ETL_code](https://github.com/CanDIG/clinical_ETL_code) repository (a python library for mapping raw data to the model and generating json files for CanDIG ingest). 
+CanDIG's implementation of the data model can be found in the [katsu](https://github.com/CanDIG/katsu) repository (our clinical data service using Django and PostgreSQL) and the [clinical_ETL_code](https://github.com/CanDIG/clinical_ETL_code) repository (a python library for mapping raw data to the model and generating json files for CanDIG ingest). Most of the data model validation happens in ETL, not katsu. 
 
 
