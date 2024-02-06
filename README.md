@@ -1,6 +1,6 @@
 # MOHCCN Clinical Data Model
 
-The [Marathon of Hope Cancer Centres Network](https://www.marathonofhopecancercentres.ca/) (MOHCCN) is a project to curate and share clinical and genomic data on Canadian cancer patients. The project has developed a clinical data model that can be found on the . The model is largely based on the [ICGC-ARGO Data Dictionary](https://docs.icgc-argo.org/dictionary). 
+The [Marathon of Hope Cancer Centres Network](https://www.marathonofhopecancercentres.ca/) (MOHCCN) is a project to curate and share clinical and genomic data on Canadian cancer patients. The project has developed a clinical data model that is largely based on the [ICGC-ARGO Data Dictionary](https://docs.icgc-argo.org/dictionary). 
 
 The most recent version of the data model, as well as supplementary material can always be found in the `Clinical Data Model` section of the MOHCCN [Policies and Guidelines](https://www.marathonofhopecancercentres.ca/researcher-hub/policies-and-guidelines) page. Here are direct download links:
 
