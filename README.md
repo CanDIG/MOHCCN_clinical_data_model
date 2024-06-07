@@ -5,7 +5,7 @@ The [Marathon of Hope Cancer Centres Network](https://www.marathonofhopecancerce
 The most recent version of the data model, as well as supplementary material can always be found in the `Clinical Data Model` section of the MOHCCN [Policies and Guidelines](https://www.marathonofhopecancercentres.ca/researcher-hub/policies-and-guidelines) page. Here are direct download links to the various v3.0 documents:
 
 * [Clinical Data Model v3.0](https://www.marathonofhopecancercentres.ca/docs/default-source/policies-and-guidelines/clinical-data-model-v3/mohccn_clinical_data_modelv3-0_may2024.xlsx?sfvrsn=80e1f917_1) (spreadsheet)
-* [Clinical Data Model v3.0 guidelines](https://www.marathonofhopecancercentres.ca/docs/default-source/policies-and-guidelines/clinical-data-model-v2.1/mohccn-clinical-data-model-v2-guideline_6jun22.pdf?Status=Master&sfvrsn=cdd99e50_3) (pdf)
+* Clinical Data Model v3.0 guidelines - not posted yet; coming soon. 
 * [Clinical Data Model v3.0 release notes](https://www.marathonofhopecancercentres.ca/docs/default-source/policies-and-guidelines/clinical-data-model-v3/mohccn-clinical-data-model-release-notes_v3-0_may2024.pdf?sfvrsn=95d38d6e_1) (pdf)
 * [Clinical Data Model v3.0 ER diagram](https://www.marathonofhopecancercentres.ca/docs/default-source/policies-and-guidelines/clinical-data-model-v3/mohccn_clinical_data_modelv3-0_er_diagram_may2024.png?sfvrsn=cdbcd90b_1) (pdf)
 
