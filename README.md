@@ -2,15 +2,16 @@
 
 The [Marathon of Hope Cancer Centres Network](https://www.marathonofhopecancercentres.ca/) (MOHCCN) is a project to curate and share clinical and genomic data on Canadian cancer patients. The project has developed a clinical data model that is largely based on the [ICGC-ARGO Data Dictionary](https://docs.icgc-argo.org/dictionary). 
 
-The most recent version of the data model, as well as supplementary material can always be found in the `Clinical Data Model` section of the MOHCCN [Policies and Guidelines](https://www.marathonofhopecancercentres.ca/researcher-hub/policies-and-guidelines) page. Here are direct download links:
+The most recent version of the data model, as well as supplementary material can always be found in the `Clinical Data Model` section of the MOHCCN [Policies and Guidelines](https://www.marathonofhopecancercentres.ca/researcher-hub/policies-and-guidelines) page. Here are direct download links to the various v3.0 documents:
 
-* [Clinical Data Model v2.1](https://www.marathonofhopecancercentres.ca/docs/default-source/policies-and-guidelines/clinical-data-model-v2.1/mohccn-clinical-data-model-v2.1_sep2023.xlsx?Status=Master&sfvrsn=611ca335_3) (spreadsheet)
-* [Clinical Data Model guidelines](https://www.marathonofhopecancercentres.ca/docs/default-source/policies-and-guidelines/clinical-data-model-v2.1/mohccn-clinical-data-model-v2-guideline_6jun22.pdf?Status=Master&sfvrsn=cdd99e50_3) (pdf)
-* [Clinical Data Model v 2.1 release notes](https://www.marathonofhopecancercentres.ca/docs/default-source/policies-and-guidelines/clinical-data-model-v2.1/mohccn-clinical-data-model-release-notes_sep2023.pdf?Status=Master&sfvrsn=19ece028_3) (pdf)
+* [Clinical Data Model v3.0](https://www.marathonofhopecancercentres.ca/docs/default-source/policies-and-guidelines/clinical-data-model-v3/mohccn_clinical_data_modelv3-0_may2024.xlsx?sfvrsn=80e1f917_1) (spreadsheet)
+* [Clinical Data Model v3.0 guidelines](https://www.marathonofhopecancercentres.ca/docs/default-source/policies-and-guidelines/clinical-data-model-v2.1/mohccn-clinical-data-model-v2-guideline_6jun22.pdf?Status=Master&sfvrsn=cdd99e50_3) (pdf)
+* [Clinical Data Model v3.0 release notes](https://www.marathonofhopecancercentres.ca/docs/default-source/policies-and-guidelines/clinical-data-model-v3/mohccn-clinical-data-model-release-notes_v3-0_may2024.pdf?sfvrsn=95d38d6e_1) (pdf)
+* [Clinical Data Model v3.0 ER diagram](https://www.marathonofhopecancercentres.ca/docs/default-source/policies-and-guidelines/clinical-data-model-v3/mohccn_clinical_data_modelv3-0_er_diagram_may2024.png?sfvrsn=cdbcd90b_1) (pdf)
 
 ## Question about the model?
 
-If you have questions about collecting data against the model, or implementing databases or tooling using the model, please create an issue in the [issue tracker](https://github.com/CanDIG/MOHCCN_clinical_data_model/issues). 
+If you have questions about collecting data against the model, or implementing databases or tooling using the model, please create an issue in the [issue tracker](https://github.com/CanDIG/MOHCCN_clinical_data_model/issues). If you have a requests for changes or a general model inquiry, please fill out the form on the [MOHCCN Policies and Guidelines](https://www.marathonofhopecancercentres.ca/researcher-hub/policies-and-guidelines) page. 
 
 ## CanDIG implementations
 
